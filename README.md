@@ -1,4 +1,4 @@
-## Olá! Eu sou a Paulinho Teixeira
+## Olá! Eu sou a Paulinho Teixeira!
 <div align="center">
   <a href="https://github.com/paulinhoteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulinhoteixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
